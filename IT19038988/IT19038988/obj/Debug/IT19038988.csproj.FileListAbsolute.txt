@@ -1,0 +1,63 @@
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\bin\Debug\IT19038988.exe.config
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\bin\Debug\IT19038988.exe
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\bin\Debug\IT19038988.pdb
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.csprojAssemblyReference.cache
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Main.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Student_Groups.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Tag.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.NonOverlapping.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Parallel.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Properties.Resources.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint1.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint2.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Student_Groups.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.Tag.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.TimeTable.resources
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.GenerateResource.cache
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.CoreCompileInputs.cache
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.exe
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\obj\Debug\IT19038988.pdb
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\bin\Debug\DatabaseConnect.mdf
+C:\Users\Nishadi\source\repos\IT19038988\IT19038988\bin\Debug\DatabaseConnect_log.ldf
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\bin\Debug\DatabaseConnect.mdf
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\bin\Debug\DatabaseConnect_log.ldf
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.exe.config
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.exe
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.pdb
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csprojAssemblyReference.cache
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Main.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Student_Groups.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Tag.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.NonOverlapping.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Parallel.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Properties.Resources.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint1.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint2.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Student_Groups.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Tag.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.TimeTable.resources
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.GenerateResource.cache
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.exe
+C:\Users\Pasindu\Desktop\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.pdb
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\bin\Debug\DatabaseConnect.mdf
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\bin\Debug\DatabaseConnect_log.ldf
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.exe.config
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.exe
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\bin\Debug\IT19038988.pdb
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csprojAssemblyReference.cache
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Main.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Student_Groups.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Manage_Tag.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.NonOverlapping.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Parallel.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Properties.Resources.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint1.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Sprint2.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Student_Groups.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.Tag.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.TimeTable.resources
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.GenerateResource.cache
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.csproj.CoreCompileInputs.cache
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.exe
+C:\Users\Pasindu\Documents\3rd year\1st sem\ITP\ITPM last\IT19038988\IT19038988\obj\Debug\IT19038988.pdb
